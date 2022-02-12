@@ -1,0 +1,2 @@
+[behave]
+paths = src/sweets_wiki/tests/bdd
